@@ -1,0 +1,41 @@
+.shop-header{
+    border: solid 1px gray;
+    border-radius: 10px;
+    padding: 15px;
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+}
+
+.shop-box-image{
+    border: solid 1px gray;
+    float: left;
+}
+
+.shop-image{
+    height: 160px;
+    width: 160px;
+}
+
+.shop-name{
+    float: left;
+    margin-left: 20px;
+}
+
+.shop-product-list{
+    margin-top: 10px;
+}
+
+.shop-count-input{
+    width: 50px;
+    margin-left: 3px;
+    margin-right: 3px;
+    border:solid 1px gray;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.shop-count-box{
+    border:solid 1px gray;
+    width: 50%;
+}
